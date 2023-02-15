@@ -1,0 +1,22 @@
+	ontology	type	GO.ID	Term	Annotated	Significant	Expected	classicFisher	padj	Significant_genes
+13	BP	down	GO:0070131	positive regulation of mitochondrial translation	16	2	0.15	0.00903	0.00907	FASTKD3,UQCC2
+11	BP	down	GO:0016925	protein sumoylation	78	4	0.72	0.00552	0.00907	NUP153,TOPORS,TRPM4,ZMIZ2
+9	BP	down	GO:0042532	negative regulation of tyrosine phosphorylation of STAT protein	12	2	0.11	0.00508	0.00907	PTPN2,SH2B3
+10	BP	down	GO:0016188	synaptic vesicle maturation	12	2	0.11	0.00508	0.00907	RAB3A,SNAPIN
+8	BP	down	GO:0009408	response to heat	166	6	1.54	0.00472	0.00907	DAXX,DNAJA1,HSPA1A,NUP153,PKLR,PSIP1
+7	BP	down	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	119	5	1.1	0.00458	0.00907	RPL36,RPLP2,RPS10,RPS6,SMG5
+6	BP	down	GO:0046549	retinal cone cell development	11	2	0.1	0.00426	0.00907	DIO3,TOPORS
+5	BP	down	GO:0045907	positive regulation of vasoconstriction	31	3	0.29	0.00273	0.00907	ADRA2C,DBH,TRPM4
+4	BP	down	GO:0017156	calcium ion regulated exocytosis	149	5	1.38	0.00216	0.00907	CHP1,CHRNA5,RAB3A,RAPGEF4,SNAPIN
+2	BP	down	GO:1901673	regulation of mitotic spindle assembly	20	3	0.19	0.00075	0.00533333333333333	HSPA1A,PLK1,SMC1A
+131	CC	down	GO:0022625	cytosolic large ribosomal subunit	60	3	0.56	0.0177	0.0215294117647059	RPL36,RPL3L,RPLP2
+12	CC	down	GO:0016363	nuclear matrix	107	4	1	0.017	0.0215294117647059	KAT8,KRT8,NONO,SMC1A
+111	CC	down	GO:0045171	intercellular bridge	58	3	0.54	0.0162	0.0215294117647059	FAM50B,RFXANK,THAP11
+71	CC	down	GO:0016010	dystrophin-associated glycoprotein complex	19	3	0.18	0.008	0.0204444444444444	KRT8,SNTA1,SNTB2
+61	CC	down	GO:0098691	dopaminergic synapse	13	2	0.12	0.0061	0.0203333333333333	CHRNA5,NLGN2
+51	CC	down	GO:0005811	lipid droplet	78	4	0.73	0.0057	0.0203333333333333	ABHD4,ALOX15,PLIN2,SIGMAR1
+3	CC	down	GO:1990909	Wnt signalosome	11	2	0.1	0.0044	0.0203333333333333	RECK,WNT2
+20	MF	down	GO:0031418	L-ascorbic acid binding	17	2	0.16	0.01101	0.01101	DBH,P4HA3
+62	MF	down	GO:0016290	palmitoyl-CoA hydrolase activity	13	2	0.13	0.00647	0.0099578947368421	ACOT11,ACOT12
+52	MF	down	GO:0003735	structural constituent of ribosome	156	6	1.5	0.00368	0.0099578947368421	MRPS17,RPL36,RPL3L,RPLP2,RPS10,RPS6
+41	MF	down	GO:0048306	calcium-dependent protein binding	57	4	0.55	0.00206	0.0099578947368421	CHP1,MASP2,TNNT3,VPS37C
